@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">VirtualMarketplaceTest</string>
+    <string name="app_name">Virtual Marketplace (Test)</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="log_in">Log in</string>
+    <string name="login_or">- or -</string>
+    <string name="register">Register</string>
 </resources>
