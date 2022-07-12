@@ -5,4 +5,9 @@
     <string name="log_in">Log in</string>
     <string name="login_or">- or -</string>
     <string name="register">Register</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buyer">Buyer</string>
+    <string name="seller">Seller</string>
+    <string name="who_are_you">Who are you?</string>
+    <string name="next">Next</string>
 </resources>
